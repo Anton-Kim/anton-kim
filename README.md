@@ -6,6 +6,6 @@
 📞 Мой Telegram: [@anton_kim](https://t.me/anton_kim)
 
 ### Оглавление
-- [Алгоритмы](https://github.com/Anton-Kim/python/blob/main/algorithms.md)
-- [Функции и приёмы](https://github.com/Anton-Kim/python/blob/main/functions.md)
-- [Задачи с решениями](https://github.com/Anton-Kim/python/blob/main/tasks.md)
+- [Алгоритмы](https://github.com/Anton-Kim/anton-kim/blob/main/algorithms.md)
+- [Функции и приёмы](https://github.com/Anton-Kim/anton-kim/blob/main/functions.md)
+- [Задачи с решениями](https://github.com/Anton-Kim/anton-kim/blob/main/tasks.md)
