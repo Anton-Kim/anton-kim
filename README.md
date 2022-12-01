@@ -9,3 +9,9 @@
 - [Алгоритмы](https://github.com/Anton-Kim/anton-kim/blob/main/algorithms.md)
 - [Функции и приёмы](https://github.com/Anton-Kim/anton-kim/blob/main/functions.md)
 - [Задачи с решениями](https://github.com/Anton-Kim/anton-kim/blob/main/tasks.md)
+
+
+### Мои проекты
+- [YaMDb](https://github.com/Anton-Kim/yamdb_final) - API-сервис для публикации отзывов пользователей на различные произведения (групповой проект курса "Python-разработчик" Яндекс Практикума).
+- [Проект Foodgram](https://github.com/Anton-Kim/foodgram-project-react) - приложение в котором пользователи могут публиковать рецепты, добавлять чужие рецепты в избранное и подписываться на публикации других авторов (дипломный проект курса "Python-разработчик" Яндекс Практикума).
+- [Моя бухгалтерия](https://github.com/Anton-Kim/my_buh) - сервис для ведения личной бухгалтерии по продажам вещей (пет).
