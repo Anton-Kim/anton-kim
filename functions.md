@@ -168,13 +168,13 @@ ____
 
 ### Конвертер чисел из десятичной системы счисления в иные
 ```python
-def numeral_system_converter(number, n_system=2):
+def numeral_system_converter(number, base=2):
     """Конвертер чисел из десятичной системы счисления в иные. Второй
     необязательный аргумент равен 2 (перевод в двоичную систему счисления)"""
     res = ''
     while number:
-        res += str(number % n_system)
-        number //= n_system
+        res += str(number % base)
+        number //= base
     return res[::-1]
 
 
@@ -182,6 +182,14 @@ print(numeral_system_converter(25))
 # 11001
 print(numeral_system_converter(25, 8))
 # 31
+
+# Вариант с рекурсией
+def numeral_system_converter(num, base=2):
+    digits = "0123456789ABCDEF"
+    if num < base:
+        return digits[num]
+    else:
+        return numeral_system_converter(num // base, base) + digits[num % base]
 ```
 
 ____
